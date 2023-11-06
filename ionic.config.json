@@ -1,0 +1,7 @@
+{
+  "name": "french-fries-friday",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
